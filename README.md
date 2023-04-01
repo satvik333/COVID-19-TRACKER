@@ -1,0 +1,1 @@
+Sports Swift is a web-based application designed for athletes. It provides real-time information on diets, practice tracks, and YouTube demo videos of various games. The application is designed to help athletes stay up-to-date with the latest information and improve their performance.
